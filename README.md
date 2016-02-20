@@ -1,0 +1,2 @@
+# sProject
+Semestro Projektas
